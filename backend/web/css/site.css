@@ -1,0 +1,66 @@
+html,
+body {
+    height: 100%;
+    font-family: masterbook;
+}
+
+.card .card-header{
+    margin-top: 15px;
+}
+.card .card-body{
+    font-family: masterbook;
+    font-size: 12px;
+    border: 2px solid #aba5a5;
+}
+
+.card .card-header, .card-footer{
+    font-family: masterbook;
+    font-size: 12px;
+}
+.card .card-body input, select, option, textarea{
+    font-family: masterbook;
+    font-size: 12px;
+}
+
+.card .card-footer .btn{
+    font-size: 11px;
+}
+
+.main-header, .small-box{
+    font-family: masterbook;
+}
+
+.main-footer{
+    font-family: masterbook;
+    font-size: 12px;
+}
+
+.main-header .navbar-nav{
+    font-family: masterbook;
+}
+
+aside.main-sidebar{
+    font-family: masterbook;
+    font-size: 12px;
+}
+
+.btn{
+    font-family: masterbook;
+}
+
+.form-control{
+    font-family: masterbook;
+}
+
+@font-face{
+    font-family:masterbook;
+    src:url(../fonts/ArbFONTS-Abdo-Master-Book.otf);
+}
+@font-face{
+    font-family:hssanhiba;
+    src:url(../fonts/ArbFONTS-Hasan_Hiba.ttf);
+}
+@font-face{
+    font-family:masterregular;
+    src:url(../fonts/ArbFONTS-Abdo-Master-Regular.otf);
+}
